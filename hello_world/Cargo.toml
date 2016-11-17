@@ -1,0 +1,5 @@
+[package]
+
+name = "rust_workspace"
+version = "0.0.1"
+authors = ["Andrew Walker <alwalker21@gmail.com>"]
